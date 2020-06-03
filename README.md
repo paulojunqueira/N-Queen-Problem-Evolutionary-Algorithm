@@ -1,3 +1,4 @@
+## N-Queen Problem with EA
 This is a python simple solution genetic algorithm for the problem of 8 queens.
 This is a mathematical problem of placing 8 queens in a chessboard and no two queens is able to capture each other.
 
